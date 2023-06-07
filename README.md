@@ -6,7 +6,7 @@ A simple structre I use for my c projects.
 ```bash
 .
 ├──📁 build
-│   └──executable-files
+│   └── executable-files
 ├──📁 data
 │  ├──📁 input
 │  │   └── input.txt
