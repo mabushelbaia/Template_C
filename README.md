@@ -17,10 +17,10 @@ A simple structre I use for my c projects.
 │   └── install.md
 ├──📁 src
 │   ├──📁 gui
-│  	│  	└── interface.c
-│  	├──📁 headers
-│  	│  	└── main.h
-│  	└── main.c
+│   │  └── interface.c
+│   ├──📁 headers
+│   │  └── main.h
+│   └── main.c
 ├── Makefile
 ├── README.md
 └── .gitignore
