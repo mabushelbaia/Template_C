@@ -8,15 +8,15 @@ A simple structre I use for my c projects.
 ├──📁 build
 │   └── executable-files
 ├──📁 data
-│  	├──📁 input
-│  	│  	└── input.txt
-│  	└──📁 output
-│     	└── output.txt
+│  ├──📁 input
+│  │  └── input.txt
+│  └──📁 output
+│     └── output.txt
 ├──📁 docs
-│  	├── examples.md
-│  	└── install.md
+│   ├── examples.md
+│   └── install.md
 ├──📁 src
-│  	├──📁 gui
+│   ├──📁 gui
 │  	│  	└── interface.c
 │  	├──📁 headers
 │  	│  	└── main.h
