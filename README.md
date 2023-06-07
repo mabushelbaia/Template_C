@@ -8,21 +8,23 @@ A simple structre I use for my c projects.
 ├──📁 build
 │   └── executable-files
 ├──📁 data
-│  ├──📁 input
-│  │   └── input.txt
-│  └──📁 output
-│      └── output.txt
+│  	├──📁 input
+│  	│  	└── input.txt
+│  	└──📁 output
+│     	└── output.txt
 ├──📁 docs
-│   ├── examples.md
-│   └── install.md
+│  	├── examples.md
+│  	└── install.md
+├──📁 src
+│  	├──📁 gui
+│  	│  	└── interface.c
+│  	├──📁 headers
+│  	│  	└── main.h
+│  	└── main.c
 ├── Makefile
 ├── README.md
-└──📁 src
-   ├──📁 gui
-   │   └── interface.c
-   ├──📁 headers
-   │   └── main.h
-   └── main.c
+└── .gitignore
+
 ```
 
 ## TODO
