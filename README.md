@@ -1,4 +1,4 @@
-# C Template (Template Repositery)
+# (Template Repositery)
 A simple structre I use for my c projects.
 ---
 
@@ -28,4 +28,4 @@ A simple structre I use for my c projects.
 ```
 
 ## TODO
-- [ ] Makefile
+- [x] Makefile
